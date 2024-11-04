@@ -1,2 +1,3 @@
 # Solitaire
 Solitaire
+se incearca
